@@ -5,3 +5,5 @@ This is an example repository
 This repository is built step by step.
 Man gribas majas.
 drīz.
+j
+
